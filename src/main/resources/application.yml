@@ -1,0 +1,9 @@
+spring:
+  output:
+    ansi:
+      enabled: always
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          jwk-set-uri: http://localhost:9000/realms/nam30112002/protocol/openid-connect/certs

@@ -1,0 +1,8 @@
+{
+  "realm": "nam30112002",
+  "auth-server-url": "http://localhost:9000",
+  "resource": "smart-online-store",
+  "credentials": {
+    "secret": "P4XjkQdjzEcM3W8YXVVt3NpcZ6ILwOcL"
+  }
+}
